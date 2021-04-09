@@ -175,7 +175,7 @@
   .no .no-hd ul li:first-child::after {
     content: '';
     position: absolute;
-    top: 30%;
+    top: 25%;
     right: 0;
     height: 50%;
     width: 1px;
@@ -205,7 +205,7 @@
     width: 10.4rem;
     height: 10.8rem;
     position: absolute;
-    top: 50%;
+    top:40%;
     left: 50%;
     transform: translate(-50%, -50%);
     background: url(pic.jpeg);
