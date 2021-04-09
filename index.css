@@ -175,7 +175,7 @@
   .no .no-hd ul li:first-child::after {
     content: '';
     position: absolute;
-    top: 25%;
+    top: 30%;
     right: 0;
     height: 50%;
     width: 1px;
